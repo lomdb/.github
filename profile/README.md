@@ -1,6 +1,6 @@
 [![LOM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
 
-# 👋 Welcome to LoMDB
+# 👋 Welcome to LoM DB
 
 Welcome to the official organization for LoMDB — a lightweight, community-driven database for tracking and exploring merged servers, top players, and timelines across regions.
 
@@ -23,4 +23,4 @@ Introduce yourself or drop a quick hello in our welcome discussion. We’d love 
 LoMDB is a collaborative effort. If you have ideas, data, or improvements to share — jump in! feel free to open an discussion.
 
 ## Thanks for being here. Let’s build something useful together!
-— The LoMDB Team
+— The LoM DB Team
