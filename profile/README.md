@@ -15,7 +15,7 @@ This project is built to help players, analysts, and enthusiasts get a clearer v
 
 📊 Tools for Visualizing and Comparing Data
 
-## Say hi!
+## 💬 Say hi!
 Introduce yourself or drop a quick hello in our welcome discussion. We’d love to know who’s here and what brings you to LoMDB!
 [Introduce Yourself](https://github.com/orgs/lomdb/discussions/27)
 
